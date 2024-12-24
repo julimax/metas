@@ -1,1 +1,7 @@
 # metas
+
+## DevOps
+
+## AI
+
+## Company
