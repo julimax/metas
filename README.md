@@ -2,9 +2,11 @@
 
 ## DevOps
 
+### AWS 500 hours
+
 ### AWS Certifications
 
-## AI
+## AI 500 hours
 
 ### Microsoft Certifications
 
