@@ -10,7 +10,7 @@
 
 ---
 
-## AI 0:00/500 hours
+## AI 0:06/500 hours
 
 ### Microsoft Certifications
 
