@@ -21,6 +21,15 @@
 ## Progress: 0:46/500 hours
 
 ### 1. Frameworks y Librerías
+
+#### **Scikit-learn**
+- Una librería esencial para modelos tradicionales de Machine Learning.
+- Te ayuda a entender conceptos básicos como:
+  - Regresión.
+  - Clasificación.
+  - Clustering.
+- Es perfecta para iniciar con los fundamentos de Machine Learning antes de avanzar a Deep Learning.
+
 #### **PyTorch**
 - Usado extensamente en investigación y desarrollo de modelos de Machine Learning.
 - Es más intuitivo para aprendizaje y prototipado rápido.
