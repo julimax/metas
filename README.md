@@ -80,6 +80,10 @@ Con muchas empresas trabajando en la nube, el conocimiento de cómo implementar 
 ---
 
 ### 5. Microsoft Certifications
+
+#### **Certificaciones Intermedias**
+- **AI-102: Designing and Implementing an Azure AI Solution**: Diseñar, implementar y desplegar soluciones de IA usando servicios como Cognitive Services, Azure Bot Services y Azure Machine Learning.
+ 
 #### **Certificaciones Intermedias**
 - **AI Engineer Associate**: Trabaja en soluciones reales y aplica servicios de Azure AI.  
 - **Data Scientist Associate (DP-100)**: Foco técnico en desarrollo de modelos.  
@@ -90,14 +94,7 @@ Con muchas empresas trabajando en la nube, el conocimiento de cómo implementar 
 
 ---
 
-### 6. Plan de Estudio para Certificaciones
-#### **AI-102: Designing and Implementing an Azure AI Solution**
-- **Estudio:** Semana 4 - Semana 6 (15 horas/semana).  
-- **Objetivo:** Diseñar, implementar y desplegar soluciones de IA usando servicios como Cognitive Services, Azure Bot Services y Azure Machine Learning.
-
----
-
-### 7. Siguientes Pasos
+### 6. Siguientes Pasos
 1. Completar fundamentos:
    - Matemáticas para IA.  
    - Limpieza y análisis de datos.  
