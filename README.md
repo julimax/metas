@@ -5,20 +5,8 @@
 ## DevOps
 
 ### AWS 500 hours
-- **Semana 1 (40 horas)**  
-  - Introducción a AWS  
-  - Conceptos básicos de la nube  
-  - Servicios principales: EC2, S3, RDS, IAM  
-- **Semana 2 (40 horas)**  
-  - Arquitectura de alta disponibilidad  
-  - Balanceadores de carga y escalado automático  
-  - Introducción a AWS CLI  
-- **Semana 3 (40 horas)**  
-  - Creación de infraestructura con Terraform  
-  - Integración de CI/CD con AWS CodePipeline  
-  - Monitoreo y alertas con CloudWatch  
 
-### AWS Certifications
+## AWS Certifications
 - AWS Certified Solutions Architect – Associate  
   - **Estudio:** Semana 4 - Semana 6 (40 horas/semana)  
 - AWS Certified DevOps Engineer – Professional  
