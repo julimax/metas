@@ -40,7 +40,10 @@
 - Compatible con Google Cloud y tiene soporte extendido para despliegues en dispositivos móviles e IoT (a través de TensorFlow Lite).
 - Si planeas trabajar en aplicaciones de IA comerciales, es una herramienta clave.
 
-**Recomendación:** Aprende ambos si es posible, comenzando con **PyTorch** por su facilidad de uso y luego avanzando a **TensorFlow** para aplicaciones en producción.
+**Recomendación:** 
+1. Comienza con **Scikit-learn** para aprender los conceptos básicos de Machine Learning.
+2. Luego avanza a **PyTorch** por su facilidad de uso y enfoque en investigación y prototipado.
+3. Finalmente, aprende **TensorFlow** para trabajar en aplicaciones comerciales y producción a gran escala.
 
 ---
 
