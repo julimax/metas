@@ -14,7 +14,7 @@
 
 ---
 
-## AI 0:06/500 hours
+## AI 0:46/500 hours
 - **Semana 1 (6 horas)**  
   - Introducción a Inteligencia Artificial  
   - Conceptos básicos: Machine Learning y Deep Learning  
@@ -22,9 +22,7 @@
   - Herramientas clave: TensorFlow y PyTorch  
   - Desarrollo de modelos simples  
 
-### Microsoft Certifications
-- AI-900: Microsoft Azure AI Fundamentals  
-  - **Estudio:** Semana 3 (10 horas)  
+### Microsoft Certifications 
 - AI-102: Designing and Implementing an Azure AI Solution  
   - **Estudio:** Semana 4 - Semana 6 (15 horas/semana)  
 
