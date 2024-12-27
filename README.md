@@ -14,17 +14,87 @@
 
 ---
 
-## AI 0:46/500 hours
-- **Semana 1 (6 horas)**  
-  - Introducción a Inteligencia Artificial  
-  - Conceptos básicos: Machine Learning y Deep Learning  
-- **Semana 2 (10 horas)**  
-  - Herramientas clave: TensorFlow y PyTorch  
-  - Desarrollo de modelos simples  
+# AI Career Path
 
-### Microsoft Certifications 
-- AI-102: Designing and Implementing an Azure AI Solution  
-  - **Estudio:** Semana 4 - Semana 6 (15 horas/semana)  
+---
+
+## Progress: 0:46/500 hours
+
+### 1. Frameworks y Librerías
+#### **PyTorch**
+- Usado extensamente en investigación y desarrollo de modelos de Machine Learning.
+- Es más intuitivo para aprendizaje y prototipado rápido.
+- Ideal si planeas trabajar en investigación o desarrollo avanzado de IA.
+
+#### **TensorFlow**
+- Ampliamente utilizado en la industria, especialmente para proyectos de producción a gran escala.
+- Compatible con Google Cloud y tiene soporte extendido para despliegues en dispositivos móviles e IoT (a través de TensorFlow Lite).
+- Si planeas trabajar en aplicaciones de IA comerciales, es una herramienta clave.
+
+**Recomendación:** Aprende ambos si es posible, comenzando con **PyTorch** por su facilidad de uso y luego avanzando a **TensorFlow** para aplicaciones en producción.
+
+---
+
+### 2. Fundamentos de Machine Learning y Data Science
+#### **Matemáticas para IA**
+- Álgebra lineal, cálculo y probabilidad son fundamentales para entender los modelos en profundidad.  
+- **Recursos:**  
+  - Curso: *Mathematics for Machine Learning* (Coursera).  
+
+#### **Limpieza y análisis de datos**
+- Aprende herramientas como:  
+  - **Pandas** y **NumPy** para manipulación de datos.  
+  - **Matplotlib** y **Seaborn** para visualización de datos.  
+
+---
+
+### 3. Herramientas de Machine Learning
+#### **Scikit-learn**
+- Una librería esencial para modelos tradicionales de Machine Learning.
+- Te ayuda a entender conceptos básicos como:
+  - Regresión.  
+  - Clasificación.  
+  - Clustering.  
+
+---
+
+### 4. Cloud Computing para IA
+Con muchas empresas trabajando en la nube, el conocimiento de cómo implementar soluciones en plataformas cloud es vital:
+
+- **Microsoft Azure** (con servicios de IA).  
+- **AWS SageMaker** (para entrenar y desplegar modelos en la nube).  
+- **Google Cloud AI Platform**.  
+
+---
+
+### 5. Microsoft Certifications
+#### **Certificaciones Intermedias**
+- **AI Engineer Associate**: Trabaja en soluciones reales y aplica servicios de Azure AI.  
+- **Data Scientist Associate (DP-100)**: Foco técnico en desarrollo de modelos.  
+
+#### **Certificaciones Avanzadas (a largo plazo)**
+- **Azure Solutions Architect Expert**: Diseñar soluciones integrales en la nube.
+- **Data Engineer Associate (DP-203)**: Trabaja con infraestructuras de datos escalables.
+
+---
+
+### 6. Plan de Estudio para Certificaciones
+#### **AI-102: Designing and Implementing an Azure AI Solution**
+- **Estudio:** Semana 4 - Semana 6 (15 horas/semana).  
+- **Objetivo:** Diseñar, implementar y desplegar soluciones de IA usando servicios como Cognitive Services, Azure Bot Services y Azure Machine Learning.
+
+---
+
+### 7. Siguientes Pasos
+1. Completar fundamentos:
+   - Matemáticas para IA.  
+   - Limpieza y análisis de datos.  
+2. Aprender frameworks clave:
+   - Comenzar con PyTorch.  
+   - Avanzar a TensorFlow.  
+3. Estudiar **AI-102** y seguir con certificaciones intermedias.  
+4. Trabajar en proyectos personales y construir un portafolio sólido.  
+5. Aprender despliegue de modelos en la nube (Azure, AWS, Google Cloud).  
 
 ---
 
