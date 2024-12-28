@@ -30,15 +30,81 @@
   - Clustering.
 - Es perfecta para iniciar con los fundamentos de Machine Learning antes de avanzar a Deep Learning.
 
+- 1. Scikit-learn
+Enfocado en Machine Learning tradicional: Ideal para modelos simples y eficaces que no requieren redes neuronales profundas.
+
+Casos de uso principales:
+
+Clasificación y regresión:
+Modelos como regresión logística, árboles de decisión, SVM, y random forests.
+Clustering:
+K-means, DBSCAN, y jerárquico.
+Reducción de dimensionalidad:
+PCA (Análisis de Componentes Principales).
+Preprocesamiento de datos:
+Normalización, escalado, imputación de valores faltantes.
+Selección de modelos y optimización de hiperparámetros:
+GridSearchCV, RandomizedSearchCV.
+Evaluación de modelos:
+Métricas como precisión, recall, AUC-ROC, y matrices de confusión.
+¿Cuándo usarlo?
+
+Para prototipos rápidos, análisis exploratorio de datos (EDA), y problemas que no requieren redes neuronales o aprendizaje profundo.
+
 #### **PyTorch**
 - Usado extensamente en investigación y desarrollo de modelos de Machine Learning.
 - Es más intuitivo para aprendizaje y prototipado rápido.
 - Ideal si planeas trabajar en investigación o desarrollo avanzado de IA.
 
+ PyTorch
+Enfocado en Deep Learning: Ideal para construir redes neuronales personalizadas y realizar investigación avanzada.
+
+Casos de uso principales:
+
+Investigación en Deep Learning:
+Crear redes neuronales completamente personalizadas.
+Modelos dinámicos, gracias a su diseño basado en gráficos computacionales dinámicos.
+Procesamiento de imágenes:
+Redes Convolucionales (CNN) para tareas como clasificación de imágenes, detección de objetos y segmentación.
+Procesamiento de texto:
+Modelos como transformers (GPT, BERT) para análisis de texto y traducción.
+Series temporales:
+Modelos recurrentes (RNN, LSTM, GRU) para datos secuenciales.
+Aprendizaje por refuerzo:
+Entrenamiento de agentes inteligentes para videojuegos, robots, etc.
+Investigación avanzada:
+Ideal para explorar nuevos algoritmos y técnicas experimentales.
+¿Cuándo usarlo?
+
+Si necesitas flexibilidad y control absoluto sobre el diseño de tus modelos.
+Perfecto para investigación académica o desarrollo de prototipos de IA.
+
 #### **TensorFlow**
 - Ampliamente utilizado en la industria, especialmente para proyectos de producción a gran escala.
 - Compatible con Google Cloud y tiene soporte extendido para despliegues en dispositivos móviles e IoT (a través de TensorFlow Lite).
 - Si planeas trabajar en aplicaciones de IA comerciales, es una herramienta clave.
+
+3. TensorFlow
+Enfocado en Deep Learning y producción a gran escala: Excelente para proyectos de aprendizaje profundo que deben ser escalables y desplegados fácilmente.
+
+Casos de uso principales:
+
+Producción y despliegue:
+TensorFlow es el estándar para aplicaciones comerciales, con soporte extendido para producción en la nube, dispositivos móviles (TensorFlow Lite), y navegadores (TensorFlow.js).
+Redes neuronales avanzadas:
+Soporte para arquitecturas complejas como CNNs, RNNs, y Transformers.
+Machine Learning automatizado:
+TensorFlow Extended (TFX) para todo el pipeline de ML.
+Aprendizaje profundo en escala masiva:
+Compatible con TPU (Tensor Processing Units) de Google para entrenar modelos grandes más rápido.
+Modelos preentrenados:
+TensorFlow Hub ofrece una amplia variedad de modelos preentrenados que pueden usarse fácilmente.
+Industria y aplicaciones comerciales:
+Uso en vehículos autónomos, IoT, y aplicaciones móviles.
+¿Cuándo usarlo?
+
+Cuando necesitas una solución robusta para producción.
+Si estás desarrollando una aplicación comercial que requiera despliegue en dispositivos móviles o la nube.
 
 **Recomendación:** 
 1. Comienza con **Scikit-learn** para aprender los conceptos básicos de Machine Learning.
@@ -91,19 +157,6 @@ Con muchas empresas trabajando en la nube, el conocimiento de cómo implementar 
 #### **Certificaciones Avanzadas (a largo plazo)**
 - **Azure Solutions Architect Expert**: Diseñar soluciones integrales en la nube.
 - **Data Engineer Associate (DP-203)**: Trabaja con infraestructuras de datos escalables.
-
----
-
-### 6. Siguientes Pasos
-1. Completar fundamentos:
-   - Matemáticas para IA.  
-   - Limpieza y análisis de datos.  
-2. Aprender frameworks clave:
-   - Comenzar con PyTorch.  
-   - Avanzar a TensorFlow.  
-3. Estudiar **AI-102** y seguir con certificaciones intermedias.  
-4. Trabajar en proyectos personales y construir un portafolio sólido.  
-5. Aprender despliegue de modelos en la nube (Azure, AWS, Google Cloud).  
 
 ---
 
