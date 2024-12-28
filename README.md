@@ -12,6 +12,10 @@
 - AWS Certified DevOps Engineer – Professional  
   - **Estudio:** Semana 7 - Semana 10 (40 horas/semana)  
 
+## Kubernetes Certifications
+
+## Terraform Certifications
+
 ---
 
 # AI Career Path
