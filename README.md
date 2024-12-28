@@ -18,7 +18,7 @@
 
 ---
 
-## Progress: 0:46/500 hours
+## Progress: 2:15/500 hours
 
 ### 1. Frameworks y Librerías
 
