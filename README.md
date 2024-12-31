@@ -142,6 +142,11 @@ College Algebra with Python Certification (12):
 Cubre conceptos matemáticos fundamentales como álgebra y funciones, que son básicos en Machine Learning.
 Relevancia: Una buena base en matemáticas es crucial para entender los algoritmos.
 
+- Machine Learning with Python Certification (11):
+
+  - Este curso cubre los conceptos clave de Machine Learning como algoritmos, modelos y frameworks (por ejemplo, scikit-learn).
+  - Relevancia: Es el curso más específico para aprender Machine Learning.
+
 ---
 
 ### 3. Fundamentos de Machine Learning y Data Science
