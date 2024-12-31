@@ -117,7 +117,36 @@ Si estás desarrollando una aplicación comercial que requiera despliegue en dis
 
 ---
 
-### 2. Fundamentos de Machine Learning y Data Science
+### 2. Cursos Esenciales para Machine Learning
+Estos son directamente útiles y fundamentales:
+
+Scientific Computing with Python Certification (8):
+
+Enseña cómo usar Python para resolver problemas matemáticos y científicos.
+Relevancia: Python es el lenguaje más popular para Machine Learning, y este curso ayuda a entender conceptos matemáticos necesarios.
+Data Analysis with Python Certification (9):
+
+Aprenderás a trabajar con bibliotecas como Pandas, NumPy, y Matplotlib.
+Relevancia: Estas herramientas son fundamentales para preprocesar datos, analizar patrones y preparar datasets para Machine Learning.
+Machine Learning with Python Certification (11):
+
+Este curso cubre los conceptos clave de Machine Learning como algoritmos, modelos y frameworks (por ejemplo, scikit-learn).
+Relevancia: Es el curso más específico para aprender Machine Learning.
+Cursos Complementarios para Machine Learning
+Estos no son directamente sobre Machine Learning, pero ayudan a construir una base sólida:
+
+Data Visualization Certification (4):
+
+Aprenderás a representar gráficamente datos utilizando bibliotecas como D3.js o herramientas de Python.
+Relevancia: Visualizar datos es esencial para interpretar resultados y comunicar hallazgos en Machine Learning.
+College Algebra with Python Certification (12):
+
+Cubre conceptos matemáticos fundamentales como álgebra y funciones, que son básicos en Machine Learning.
+Relevancia: Una buena base en matemáticas es crucial para entender los algoritmos.
+
+---
+
+### 3. Fundamentos de Machine Learning y Data Science
 #### **Matemáticas para IA**
 - Álgebra lineal, cálculo y probabilidad son fundamentales para entender los modelos en profundidad.  
 - **Recursos:**  
@@ -130,7 +159,7 @@ Si estás desarrollando una aplicación comercial que requiera despliegue en dis
 
 ---
 
-### 3. Herramientas de Machine Learning
+### 4. Herramientas de Machine Learning
 #### **Scikit-learn**
 - Una librería esencial para modelos tradicionales de Machine Learning.
 - Te ayuda a entender conceptos básicos como:
@@ -140,7 +169,7 @@ Si estás desarrollando una aplicación comercial que requiera despliegue en dis
 
 ---
 
-### 4. Cloud Computing para IA
+### 5. Cloud Computing para IA
 Con muchas empresas trabajando en la nube, el conocimiento de cómo implementar soluciones en plataformas cloud es vital:
 
 - **Microsoft Azure** (con servicios de IA).  
@@ -149,7 +178,7 @@ Con muchas empresas trabajando en la nube, el conocimiento de cómo implementar 
 
 ---
 
-### 5. Microsoft Certifications
+### 6. Microsoft Certifications
 
 #### **Certificaciones Intermedias**
 - **AI-102: Designing and Implementing an Azure AI Solution**: Diseñar, implementar y desplegar soluciones de IA usando servicios como Cognitive Services, Azure Bot Services y Azure Machine Learning.
