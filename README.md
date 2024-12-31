@@ -88,9 +88,7 @@ Perfecto para investigación académica o desarrollo de prototipos de IA.
 - Ampliamente utilizado en la industria, especialmente para proyectos de producción a gran escala.
 - Compatible con Google Cloud y tiene soporte extendido para despliegues en dispositivos móviles e IoT (a través de TensorFlow Lite).
 - Si planeas trabajar en aplicaciones de IA comerciales, es una herramienta clave.
-
-3. TensorFlow ❌
-Enfocado en Deep Learning y producción a gran escala: Excelente para proyectos de aprendizaje profundo que deben ser escalables y desplegados fácilmente.
+- Enfocado en Deep Learning y producción a gran escala: Excelente para proyectos de aprendizaje profundo que deben ser escalables y desplegados fácilmente.
 
 Casos de uso principales:
 
