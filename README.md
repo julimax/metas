@@ -119,8 +119,8 @@ Si estás desarrollando una aplicación comercial que requiera despliegue en dis
 Estos son directamente útiles y fundamentales:
 
 - Scientific Computing with Python Certification (8): https://www.freecodecamp.org/learn/scientific-computing-with-python/
-- Enseña cómo usar Python para resolver problemas matemáticos y científicos.
-- Relevancia: Python es el lenguaje más popular para Machine Learning, y este curso ayuda a entender conceptos matemáticos necesarios.
+  - Enseña cómo usar Python para resolver problemas matemáticos y científicos.
+  - Relevancia: Python es el lenguaje más popular para Machine Learning, y este curso ayuda a entender conceptos matemáticos necesarios.
   
 - Data Analysis with Python Certification (9):
   - Aprenderás a trabajar con bibliotecas como Pandas, NumPy, y Matplotlib.
@@ -139,7 +139,6 @@ Estos son directamente útiles y fundamentales:
 - College Algebra with Python Certification (12):
   - Cubre conceptos matemáticos fundamentales como álgebra y funciones, que son básicos en Machine Learning.
   - Relevancia: Una buena base en matemáticas es crucial para entender los algoritmos.
-
 
 ---
 
