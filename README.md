@@ -2,29 +2,32 @@
 
 ---
 
-## DevOps
+## DevOps ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
 
-### AWS 500 hours
+### AWS 500 hours ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
 
-## AWS Certifications
-- AWS Certified Solutions Architect – Associate  
-  - **Estudio:** Semana 4 - Semana 6 (40 horas/semana)  
-- AWS Certified DevOps Engineer – Professional  
-  - **Estudio:** Semana 7 - Semana 10 (40 horas/semana)  
-
-## Kubernetes Certifications
-
-## Terraform Certifications
-
----
-
-# AI Career Path
+## AWS Certifications ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+- AWS Certified Solutions Architect – Associate  ❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+  - **Estudio:** Semana 4 - Semana 6 (40 horas/semana)  ❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+- AWS Certified DevOps Engineer – Professional  ❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+  - **Estudio:** Semana 7 - Semana 10 (40 horas/semana)  ❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+## Kubernetes Certifications ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+## Terraform Certifications ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
 
 ---
 
-## Progress: 7:40/500 hours
+#### AI organizado✅
 
-### 1. Frameworks y Librerías
+# AI Career Path ❌
+
+---
+
+## Progress: 7:40/500 hours ❌ 
+
+### 1. Frameworks y Librerías ❌
 
 #### **Scikit-learn**  ✅
 Enfocado en Machine Learning tradicional: Ideal para modelos simples y eficaces que no requieren redes neuronales profundas.
@@ -53,7 +56,7 @@ Métricas como precisión, recall, AUC-ROC, y matrices de confusión.
 
 Para prototipos rápidos, análisis exploratorio de datos (EDA), y problemas que no requieren redes neuronales o aprendizaje profundo.
 
-#### **PyTorch**
+#### **PyTorch** ❌
 - Usado extensamente en investigación y desarrollo de modelos de Machine Learning.
 - Es más intuitivo para aprendizaje y prototipado rápido.
 - Ideal si planeas trabajar en investigación o desarrollo avanzado de IA.
@@ -81,12 +84,12 @@ Ideal para explorar nuevos algoritmos y técnicas experimentales.
 Si necesitas flexibilidad y control absoluto sobre el diseño de tus modelos.
 Perfecto para investigación académica o desarrollo de prototipos de IA.
 
-#### **TensorFlow**
+#### **TensorFlow** ❌
 - Ampliamente utilizado en la industria, especialmente para proyectos de producción a gran escala.
 - Compatible con Google Cloud y tiene soporte extendido para despliegues en dispositivos móviles e IoT (a través de TensorFlow Lite).
 - Si planeas trabajar en aplicaciones de IA comerciales, es una herramienta clave.
 
-3. TensorFlow
+3. TensorFlow ❌
 Enfocado en Deep Learning y producción a gran escala: Excelente para proyectos de aprendizaje profundo que deben ser escalables y desplegados fácilmente.
 
 Casos de uso principales:
@@ -115,57 +118,47 @@ Si estás desarrollando una aplicación comercial que requiera despliegue en dis
 
 ---
 
-### 2. Cursos Esenciales para Machine Learning
+### 2. Cursos Esenciales para Machine Learning ❌
 Estos son directamente útiles y fundamentales:
 
-- Scientific Computing with Python Certification (8): https://www.freecodecamp.org/learn/scientific-computing-with-python/
+- Scientific Computing with Python Certification (8): https://www.freecodecamp.org/learn/scientific-computing-with-python/ ❌
   - Enseña cómo usar Python para resolver problemas matemáticos y científicos.
   - Relevancia: Python es el lenguaje más popular para Machine Learning, y este curso ayuda a entender conceptos matemáticos necesarios.
   
-- Data Analysis with Python Certification (9):
+- Data Analysis with Python Certification (9): ❌
   - Aprenderás a trabajar con bibliotecas como Pandas, NumPy, y Matplotlib.
   - Relevancia: Estas herramientas son fundamentales para preprocesar datos, analizar patrones y preparar datasets para Machine Learning.
 
-- Machine Learning with Python Certification (11):
+- Machine Learning with Python Certification (11): ❌
   - Este curso cubre los conceptos clave de Machine Learning como algoritmos, modelos y frameworks (por ejemplo, scikit-learn).
   - Relevancia: Es el curso más específico para aprender Machine Learning.
   - Cursos Complementarios para Machine Learning
   - Estos no son directamente sobre Machine Learning, pero ayudan a construir una base sólida:
 
-- Data Visualization Certification (4):
+- Data Visualization Certification (4): ❌
   - Aprenderás a representar gráficamente datos utilizando bibliotecas como D3.js o herramientas de Python.
   - Relevancia: Visualizar datos es esencial para interpretar resultados y comunicar hallazgos en Machine Learning.
 
-- College Algebra with Python Certification (12):
+- College Algebra with Python Certification (12): ❌
   - Cubre conceptos matemáticos fundamentales como álgebra y funciones, que son básicos en Machine Learning.
   - Relevancia: Una buena base en matemáticas es crucial para entender los algoritmos.
 
 ---
 
-### 3. Fundamentos de Machine Learning y Data Science
+### 3. Fundamentos de Machine Learning y Data Science ❌
 #### **Matemáticas para IA**
 - Álgebra lineal, cálculo y probabilidad son fundamentales para entender los modelos en profundidad.  
 - **Recursos:**  
   - Curso: *Mathematics for Machine Learning* (Coursera).  
 
-#### **Limpieza y análisis de datos**
+#### **Limpieza y análisis de datos** ❌
 - Aprende herramientas como:  
   - **Pandas** y **NumPy** para manipulación de datos.  
-  - **Matplotlib** y **Seaborn** para visualización de datos.  
-
+  - **Matplotlib** y **Seaborn** para visualización de datos.
+  - 
 ---
 
-### 4. Herramientas de Machine Learning
-#### **Scikit-learn**
-- Una librería esencial para modelos tradicionales de Machine Learning.
-- Te ayuda a entender conceptos básicos como:
-  - Regresión.  
-  - Clasificación.  
-  - Clustering.  
-
----
-
-### 5. Cloud Computing para IA
+### 4. Cloud Computing para IA ❌
 Con muchas empresas trabajando en la nube, el conocimiento de cómo implementar soluciones en plataformas cloud es vital:
 
 - **Microsoft Azure** (con servicios de IA).  
@@ -174,32 +167,38 @@ Con muchas empresas trabajando en la nube, el conocimiento de cómo implementar 
 
 ---
 
-### 6. Microsoft Certifications
+### 5. Certifications ❌
 
 #### **Certificaciones Intermedias**
-- **AI-102: Designing and Implementing an Azure AI Solution**: Diseñar, implementar y desplegar soluciones de IA usando servicios como Cognitive Services, Azure Bot Services y Azure Machine Learning.
+- **AI-102: Designing and Implementing an Azure AI Solution**: ❌
+  - Diseñar, implementar y desplegar soluciones de IA usando servicios como Cognitive Services, Azure Bot Services y Azure Machine Learning.
  
 #### **Certificaciones Intermedias**
-- **AI Engineer Associate**: Trabaja en soluciones reales y aplica servicios de Azure AI.  
-- **Data Scientist Associate (DP-100)**: Foco técnico en desarrollo de modelos.  
+- **AI Engineer Associate**: ❌
+  - Trabaja en soluciones reales y aplica servicios de Azure AI.  
+- **Data Scientist Associate (DP-100)**: ❌
+  - Foco técnico en desarrollo de modelos.  
+- **AWS MAchine Learning Engineer**
 
 #### **Certificaciones Avanzadas (a largo plazo)**
-- **Azure Solutions Architect Expert**: Diseñar soluciones integrales en la nube.
-- **Data Engineer Associate (DP-203)**: Trabaja con infraestructuras de datos escalables.
+- **Azure Solutions Architect Expert**: ❌
+  -  Diseñar soluciones integrales en la nube.
+- **Data Engineer Associate (DP-203)**: ❌
+  - Trabaja con infraestructuras de datos escalables.
 
 ---
 
-## Inglés 500 hours
-- **Semana 1 (20 horas)**  
-  - Speaking: Prácticas conversacionales diarias  
-  - Listening: Podcasts y vídeos educativos  
-- **Semana 2 (20 horas)**  
-  - Writing: Redacción de textos simples y correos  
-  - Grammar: Revisión de tiempos verbales comunes  
-- **Semana 3 (20 horas)**  
-  - Reading: Artículos y libros en inglés técnico  
-  - Speaking: Sesiones de práctica avanzadas  
-
+## Inglés 500 hours ❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+- **Semana 1 (20 horas)**  ❌❌❌
+  - Speaking: Prácticas conversacionales diarias  ❌❌❌
+  - Listening: Podcasts y vídeos educativos  ❌❌❌❌❌
+- **Semana 2 (20 horas)**  ❌❌❌❌
+  - Writing: Redacción de textos simples y correos  ❌❌❌
+  - Grammar: Revisión de tiempos verbales comunes  ❌❌
+- **Semana 3 (20 horas)**  ❌❌❌
+  - Reading: Artículos y libros en inglés técnico  ❌❌
+  - Speaking: Sesiones de práctica avanzadas  ❌❌❌
+❌❌❌❌❌
 ---
 
 ## Company
