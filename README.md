@@ -26,16 +26,14 @@
 
 ### 1. Frameworks y Librerías
 
-#### **Scikit-learn**
+#### **Scikit-learn**  ✅
+Enfocado en Machine Learning tradicional: Ideal para modelos simples y eficaces que no requieren redes neuronales profundas.
 - Una librería esencial para modelos tradicionales de Machine Learning.
 - Te ayuda a entender conceptos básicos como:
   - Regresión.
   - Clasificación.
   - Clustering.
 - Es perfecta para iniciar con los fundamentos de Machine Learning antes de avanzar a Deep Learning.
-
-- 1. Scikit-learn
-Enfocado en Machine Learning tradicional: Ideal para modelos simples y eficaces que no requieren redes neuronales profundas.
 
 Casos de uso principales:
 
