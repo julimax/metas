@@ -118,34 +118,28 @@ Si estás desarrollando una aplicación comercial que requiera despliegue en dis
 ### 2. Cursos Esenciales para Machine Learning
 Estos son directamente útiles y fundamentales:
 
-- Scientific Computing with Python Certification (8):
-
-Enseña cómo usar Python para resolver problemas matemáticos y científicos.
-Relevancia: Python es el lenguaje más popular para Machine Learning, y este curso ayuda a entender conceptos matemáticos necesarios.
-Data Analysis with Python Certification (9):
-
-Aprenderás a trabajar con bibliotecas como Pandas, NumPy, y Matplotlib.
-Relevancia: Estas herramientas son fundamentales para preprocesar datos, analizar patrones y preparar datasets para Machine Learning.
-Machine Learning with Python Certification (11):
-
-Este curso cubre los conceptos clave de Machine Learning como algoritmos, modelos y frameworks (por ejemplo, scikit-learn).
-Relevancia: Es el curso más específico para aprender Machine Learning.
-Cursos Complementarios para Machine Learning
-Estos no son directamente sobre Machine Learning, pero ayudan a construir una base sólida:
-
-- Data Visualization Certification (4):
-
-Aprenderás a representar gráficamente datos utilizando bibliotecas como D3.js o herramientas de Python.
-Relevancia: Visualizar datos es esencial para interpretar resultados y comunicar hallazgos en Machine Learning.
-College Algebra with Python Certification (12):
-
-Cubre conceptos matemáticos fundamentales como álgebra y funciones, que son básicos en Machine Learning.
-Relevancia: Una buena base en matemáticas es crucial para entender los algoritmos.
+- Scientific Computing with Python Certification (8): https://www.freecodecamp.org/learn/scientific-computing-with-python/
+- Enseña cómo usar Python para resolver problemas matemáticos y científicos.
+- Relevancia: Python es el lenguaje más popular para Machine Learning, y este curso ayuda a entender conceptos matemáticos necesarios.
+  
+- Data Analysis with Python Certification (9):
+  - Aprenderás a trabajar con bibliotecas como Pandas, NumPy, y Matplotlib.
+  - Relevancia: Estas herramientas son fundamentales para preprocesar datos, analizar patrones y preparar datasets para Machine Learning.
 
 - Machine Learning with Python Certification (11):
-
   - Este curso cubre los conceptos clave de Machine Learning como algoritmos, modelos y frameworks (por ejemplo, scikit-learn).
   - Relevancia: Es el curso más específico para aprender Machine Learning.
+  - Cursos Complementarios para Machine Learning
+  - Estos no son directamente sobre Machine Learning, pero ayudan a construir una base sólida:
+
+- Data Visualization Certification (4):
+  - Aprenderás a representar gráficamente datos utilizando bibliotecas como D3.js o herramientas de Python.
+  - Relevancia: Visualizar datos es esencial para interpretar resultados y comunicar hallazgos en Machine Learning.
+
+- College Algebra with Python Certification (12):
+  - Cubre conceptos matemáticos fundamentales como álgebra y funciones, que son básicos en Machine Learning.
+  - Relevancia: Una buena base en matemáticas es crucial para entender los algoritmos.
+
 
 ---
 
