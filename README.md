@@ -153,7 +153,7 @@ Estos son directamente útiles y fundamentales:
 - Aprende herramientas como:  
   - **Pandas** y **NumPy** para manipulación de datos.  
   - **Matplotlib** y **Seaborn** para visualización de datos.
-  - 
+    
 ---
 
 ### 4. Cloud Computing para IA ❌
