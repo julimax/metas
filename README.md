@@ -7,7 +7,7 @@
 ### AWS 500 hours ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
 
 ## AWS Certifications ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
-- AWS Certified Solutions Architect – Associate 20 de febrero
+- AWS Certified Solutions Architect – Associate 20 de febrero ❌
   - **Estudio:** (17.5 horas/semana - 1:30 horas por día)
   - semana 1 - 0:00 horas
   - Horas necesarias: Entre 50 y 70 horas.
@@ -193,7 +193,7 @@ Con muchas empresas trabajando en la nube, el conocimiento de cómo implementar 
 
 ---
 
-## Inglés 500 hours ❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+## Inglés 0:30/500 hours ❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
 - **Semana 1 (20 horas)**  ❌❌❌
   - Speaking: Prácticas conversacionales diarias  ❌❌❌
   - Listening: Podcasts y vídeos educativos  ❌❌❌❌❌
