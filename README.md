@@ -216,7 +216,7 @@ Con muchas empresas trabajando en la nube, el conocimiento de cómo implementar 
 
 ---
 
-## Inglés 2:07/500 hours ❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+## Inglés 3:44/500 hours ❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
 - **Semana 1 (20 horas)**  ❌❌❌
   - Speaking: Prácticas conversacionales diarias  ❌❌❌
   - Listening: Podcasts y vídeos educativos  ❌❌❌❌❌
