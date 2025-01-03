@@ -9,7 +9,7 @@
 ## AWS Certifications ❌
 - AWS Certified Solutions Architect – Associate 20 de febrero ❌
   - **Estudio:** (17.5 horas/semana - 1:30 horas por día)
-  - semana 1 - 1:37 horas
+  - semana 1 - 3:14 horas
   - Horas necesarias: Entre 50 y 70 horas.
   - Razón: Necesitas reforzar conocimientos existentes y practicar habilidades de diseño de soluciones.
   - Plan sugerido:
