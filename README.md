@@ -2,7 +2,7 @@
 
 ---
 
-## DevOps 3:14/500 hours ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+## DevOps 3:56/500 hours ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
 
 ### AWS 
 
