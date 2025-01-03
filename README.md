@@ -2,11 +2,11 @@
 
 ---
 
-## DevOps ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+## DevOps 3:14/500 hours ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
 
-### AWS 1:37/500 hours ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+### AWS 
 
-## AWS Certifications ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+## AWS Certifications ❌
 - AWS Certified Solutions Architect – Associate 20 de febrero ❌
   - **Estudio:** (17.5 horas/semana - 1:30 horas por día)
   - semana 1 - 1:37 horas
@@ -16,13 +16,36 @@
   - Estudio teórico: 20-30 horas (repaso de servicios clave como EC2, S3, RDS, Lambda, etc.).
    Práctica con Hands-On Labs: 15-20 horas (configuraciones de red, balanceadores de carga, CloudFormation).
 
-- AWS Certified DevOps Engineer – Professional  ❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
-  - **Estudio:** Semana 7 - Semana 10 (40 horas/semana)  ❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
-❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
-## Kubernetes Certifications ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
-❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+## AWS Certified Developer – Associate
+
+### Plan de Estudio
+- **Duración:** 4-6 semanas (80-100 horas).
+- **Estudio semanal:** 15-20 horas.
+- **Razón:** Certificación enfocada en desarrollo y programación con servicios de AWS.
+
+## AWS Certified DevOps Engineer – Professional (2026)
+
+### Plan de Estudio
+- **Duración:** 6 semanas (120-160 horas).
+- **Estudio semanal:** 20-40 horas.
+- **Razón:** Certificación avanzada para profundizar en automatización, CI/CD y arquitecturas resilientes.
+
+
+## Kubernetes
+
+### KCNA Certification
+
+### Plan de Estudio
+- **Duración:** Por determinar.
+- **Estudio semanal:** Por determinar.
+- **Avance actual:**
+  - Semana 0: **Sin horas completadas**.
 ## Terraform Certifications ❌❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
 ❌❌❌❌❌❌❌❌❌❌❌ Reorganizar
+
+
+
+## Terraform
 
 ---
 
